@@ -24,8 +24,8 @@ yarn-debug.log*
 yarn-error.log*
 
 #firebase stuff
-/.firebase
-/.firebaserc
-/firebase.json
-/firestore.indexes.json
-/firestore.rules
+.firebase
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
