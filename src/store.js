@@ -7,7 +7,7 @@ import notifyReducer from "./reducers/notifyReducer";
 import settingsReducer from "./reducers/settingsReducer";
 
 const firebaseConfig = {
-  //settings go here--omitted for security purposes.
+  // settings go here--omitted for security purposes.
 };
 
 // react-redux-firebase config
